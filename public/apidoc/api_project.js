@@ -1,0 +1,1 @@
+define({  "name": "我的node.js第一个项目",  "version": "1.0.0",  "description": "我的小node啊啊啊啊",  "title": "小node啊啊",  "url": "",  "sampleUrl": "http://localhost:8083",  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2018-05-06T15:38:18.542Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }});
